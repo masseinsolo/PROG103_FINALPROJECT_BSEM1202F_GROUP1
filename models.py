@@ -1,7 +1,3 @@
-"""
-MODELS – Data storage and persistence (JSON)
-"""
-
 import json
 import os
 from datetime import datetime

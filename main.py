@@ -1,8 +1,3 @@
-"""
-CROP ADVISOR – ENTRY POINT
-Run this file to start the application
-"""
-
 import tkinter as tk
 from gui import LoginWindow
 
