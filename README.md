@@ -197,6 +197,3 @@ This system is released and distributed under the clear provisions of the open-s
 * Limkokwing University Quality Assurance Committee – For providing structural boundaries that help focus academic work on real local problems in Sierra Leone.
 
 ---
-
-## ⚠️ Academic Project Disclaimer
-The embedded Disease Detector module included within the diagnostic view parameters utilizes static arrays and mock configurations for demonstration purposes. This component is structured to serve as an expansion slot designed for modular integration with active machine learning libraries (such as TensorFlow or Keras) in subsequent advanced software engineering courses.
