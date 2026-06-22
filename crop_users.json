@@ -1,0 +1,14 @@
+{
+  "farmer1": {
+    "password": "crop123",
+    "phone": "0781234567",
+    "fullname": "Elijah Farmer",
+    "role": "admin"
+  },
+  "solo": {
+    "password": "12masseinsolo",
+    "phone": "74838534",
+    "fullname": "Solomon",
+    "role": "farmer"
+  }
+}
